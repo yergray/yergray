@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @yergray
+- 👀 I’m interested in operating systems, graphics and emulators
+- 🌱 I’m currently learning Rust and PostgreSQL
+- 💞️ I’m looking to collaborate on something interesting
+- 📫 How to reach me [_]
+- 😄 Pronouns: de/bil
+- ⚡ Fun fact: Idk, will add when I will find something funny about myself
