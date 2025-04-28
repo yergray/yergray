@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yergray
 - 👀 I’m interested in various stuff, right now I read sources of programs I like to learn more about Rust. 
-- 🌱 I’m currently learning Rust(for mysellf) and .Net(for work) 
+- 🌱 I’m currently learning Rust
 - 📫 How to reach me [_]
 - 😄 Pronouns: de/bil
 - ⚡ Fun fact: I like Souls-like games even if I die 1001 times before win over boss. 
